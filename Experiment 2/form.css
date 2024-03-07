@@ -1,0 +1,44 @@
+h2 {
+    text-align: center;
+    color: darkblue;
+    font-size: 50px;
+}
+
+form {
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+label {
+    color: darkblue;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+}
+
+.radio {
+    margin-right: 5px;
+}
+
+#submit {
+    background-color: #86e05c;
+    display: block;
+    color: rgb(55, 101, 228);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#submit:hover {
+    background-color: rgb(55, 101, 228);
+    color: white;
+}
